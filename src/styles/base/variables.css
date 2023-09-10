@@ -1,0 +1,11 @@
+/* Variables CSS personalizadas */
+:root {
+    --font: 'Nunito Sans', sans-serif;
+    --color-header: #191919;
+    --color-text-primary: #333333;
+    --color-highlight: #CCCCCC;
+    --color-accent: #555555;
+    --color-link: #a4a4fe;
+    --color-button: #666666;
+    --color-background: #F5F5F5;
+}
